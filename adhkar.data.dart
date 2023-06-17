@@ -783,7 +783,7 @@ List<Adhkar> adhkars_data = [
         "For seeking guidance in forming a decision or choosing the proper course",
     adhkars: [
       AdhkarData(
-        arabicText: "arabicText",
+        arabicText: " قال جابر بن عبد الله رضي الله عنهما : كان رسول الله صلى الله عليه وسلم ، يُعلمنا الاستخارة في الأمور كلها كما يعلمُنا السورة من القرآن ، يقول : إذا هم أحدكم بالأمر فليركع ركعتين من غير الفريضة ، ثم ليقل: \"اللهم إني أستخيرك بعلمك ، وأستقدرك بقدرتك ، وأسألك من فضلك العظيم فإنك تقدِرُ ولا أقدِرُ ، وتعلم ولا أعلم ، وأنت علام الغيوب ، اللهم إن كنت تعلم أن هذا الأمر - يسمي حاجته - خير لي في ديني ومعاشي وعاقبة أمري - أو قال : عاجله وآجله - فاقدره لي ويسره لي ، ثم بارك لي فيه ، وإن كنت تعلم أن هذا الأمر شر لي في ديني ومعاشي وعاقبة أمري - أو قال : عاجله وآجله - فاصرفه عني واصرفني عنه ، واقدر لي الخير حيث كان ، ثم ارضني به \" وما ندم من استخار الخالق، وشاور المخلوقين المؤمنين وتثبَّت في أمره، فقد قال سبحانه ﴿وَشـاوِرْهُـم في الأمْـرِ فَـإِذا عَـزَمْـتَ فَتَوَكّـلْ عَلـى الله﴾",
         translationText:
             "Jabir bin Abdullah (RA) said: The Prophet (ﷺ) used to teach us to seek Allah's Counsel in all matters, as he used to teach us a Surah from the Qur'an. He would say: When anyone of you has an important matter to decide, let him pray two Rak'ahs other than the obligatory prayer, and then say: \"O Allah, I seek the counsel of Your Knowledge, and I seek the help of Your Omnipotence, and I beseech You for Your Magnificent Grace. Surely, You are Capable and I am not. You know and I know not, and You are the Knower of the unseen. O Allah, if You know that this matter [then mention the thing to be decided] is good for me in my religion and in my life and for my welfare in the life to come, - [or say: in this life and the afterlife] - then ordain it for me and make it easy for me, then bless me in it. And if You know that this matter is bad for me in my religion and in my life and for my welfare in the life to come, - [or say: in this life and the afterlife] - then distance it from me, and distance me from it, and ordain for me what is good wherever it may be, and help me to be content with it.\" Whoever seeks the counsel of the Creator will not regret it and whoever seeks the advice of the believers will feel confident about his decisions, for Allah has said in the Qur'an: \"And consult them in the affair. Then when you have taken a decision, put your trust in Allah.\"",
         transliterationText:
@@ -1119,7 +1119,7 @@ List<Adhkar> adhkars_data = [
       ),
       AdhkarData(
         arabicText: "يقرأ ((ألم * تنزيل)) السجدة، و((تبارك الذي بيده الملك))",
-        translationText: "--",
+        translationText: "",
         transliterationText:
             "Recite Surah 32 (As-Sajdah) and Surah 67 (Al-Mulk) in Arabic.",
         URLReference: "https://sunnah.com/hisn:110",
@@ -1490,14 +1490,14 @@ List<Adhkar> adhkars_data = [
       AdhkarData(
         arabicText: "الْأَذَانُ",
         translationText: "The call to prayer - 'Athan.",
-        transliterationText: "--",
+        transliterationText: "",
         URLReference: "https://sunnah.com/hisn:142",
       ),
       AdhkarData(
         arabicText: "الْأَذْكَارُ وَقِرَاءَةُ الْقُرْآنِ",
         translationText:
             "Saying words of Allah's remembrance (Thikr) and recitation of the Qur'an.",
-        transliterationText: "--",
+        transliterationText: "",
         URLReference: "https://sunnah.com/hisn:143",
       ),
     ],
@@ -1727,7 +1727,7 @@ List<Adhkar> adhkars_data = [
     title: "Condolence",
     adhkars: [
       AdhkarData(
-        arabicText: "",
+        arabicText: '"إن لله ما أخذ وله ما أعطى . وكل شيء عنده بأجل مُسمى ... فلتصبر ولتحتسب " وإن قال : "أعظم الله أجرك ، وأحسن عزاءك وغفر لميتك" فحسن',
         translationText:
             "Surely, Allah takes what is His, and what He gives is His, and to all things He has appointed a time... so have patience and be rewarded.1 May Allah magnify your reward, and make perfect your bereavement, and forgive your departed.2",
         transliterationText:
@@ -1772,8 +1772,1289 @@ List<Adhkar> adhkars_data = [
             "Peace be upon you, people of this abode, from among the believers and those who are Muslims, and we, by the Will of Allah, shall be joining you. [May Allah have mercy on the first of us and the last of us] I ask Allah to grant us and you well-being.",
         transliterationText:
             "Assalāmu `alaykum ahlad-diyāri minal-mu'minīna wa ‘l-muslimīn, wa innā in shā' Allāhu bikum lāḥiqūn nas'alullāha lanā wa lakumul-`āfiyah.",
-        URLReference: "https://sunnah.com/hisn:164",
+        URLReference: "https://sunnah.com/hisn:165",
       ),
     ],
   ),
+  Adhkar(
+    id: "c61",
+    title: "During a wind storm",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "اللّهُـمَّ إِنَّـي أَسْـأَلُـكَ خَيْـرَها، وَأَعـوذُ بِكَ مِنْ شَـرِّها",
+        translationText:
+            "O Allah, I ask You for the good of it, and seek refuge in You against its evil.",
+        transliterationText:
+            "Allāhumma innī as'aluka khayrahā, wa a`ūdhu bika min sharrihā.",
+        URLReference: "https://sunnah.com/hisn:166",
+      ),
+      AdhkarData(
+        arabicText:
+            "اللّهُـمَّ إِنَّـي أَسْـأَلُـكَ خَيْـرَها، وَخَيْـرَ ما فيهـا، وَخَيْـرَ ما اُرْسِلَـتْ بِه، وَأَعـوذُ بِكَ مِنْ شَـرِّها، وَشَـرِّ ما فيهـا، وَشَـرِّ ما اُرْسِلَـتْ بِه",
+        translationText:
+            "O Allah, I ask You for the good of it, for the good of what it contains, and for the good of what is sent with it. I seek refuge in You from the evil of it, from the evil of what it contains, and from the evil that is sent with it.",
+        transliterationText:
+            "Allāhumma innī as'aluka khayrahā, wa khayra mā fīhā, wa khayra mā ursilat bih, wa a`ūdhu bika min sharrihā, wa sharri mā fīhā, wa sharri mā ursilat bih.",
+        URLReference: "https://sunnah.com/hisn:167",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c62",
+    title: "Upon hearing thunder",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "سُبْـحانَ الّذي يُسَبِّـحُ الـرَّعْدُ بِحَمْـدِهِ، وَالملائِكـةُ مِنْ خيـفَته",
+        translationText:
+            "Glory is to Him Whom thunder and angels glorify due to fear of Him.",
+        transliterationText:
+            "Subḥāna ‘l-ladhī yusabbiḥur-ra`du bi ḥamdihi wa ‘l-malā'ikatu min khīfatih.",
+        URLReference: "https://sunnah.com/hisn:168",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c63",
+    title: "For rain",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "اللّهُمَّ اسْقِـنا غَيْـثاً مُغيـثاً مَريئاً مُريـعاً، نافِعـاً غَيْـرَ ضار، عاجِـلاً غَـيْرَ آجِل",
+        translationText:
+            "O Allah, shower upon us abundant rain, beneficial not harmful, swiftly and not delayed.",
+        transliterationText:
+            "Allāhumma ‘asqinā ghaythan mughīthan marī'an murī`a, nāfi`an ghayra ḍārr, `ājilan ghayra ājil.",
+        URLReference: "https://sunnah.com/hisn:169",
+      ),
+      AdhkarData(
+        arabicText:
+            "اللّهُمَّ أغِثْنـا، اللّهُمَّ أغِثْنـا، اللّهُمَّ أغِثْنـا",
+        translationText:
+            "O Allah, send us rain. O Allah, send us rain. O Allah, send us rain.",
+        transliterationText:
+            "Allāhumma aghithnā, Allāhumma aghithnā, Allāhumma aghithnā..",
+        URLReference: "https://sunnah.com/hisn:170",
+      ),
+      AdhkarData(
+        arabicText:
+            "اللّهُمَّ اسْقِ عِبادَكَ وَبَهـائِمَك، وَانْشُـرْ رَحْمَـتَكَ وَأَحْيِي بَلَـدَكَ المَيِّـت",
+        translationText:
+            "O Allah, give water to Your slaves, and Your livestock, and spread Your mercy, and revive Your dead land.",
+        transliterationText:
+            "Allāhumma’sqi `ibādaka wa bahā'imak, wanshur raḥmatak, wa aḥyi baladaka ‘l-mayyit",
+        URLReference: "https://sunnah.com/hisn:171",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c64",
+    title: "When it rains",
+    adhkars: [
+      AdhkarData(
+        arabicText: "اللّهُمَّ صَيِّـباً نافِـعاً",
+        translationText: "O Allah, (bring) beneficial rain clouds.",
+        transliterationText: "Allāhumma ṣayyiban nāfi`a.",
+        URLReference: "https://sunnah.com/hisn:172",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c65",
+    title: "After rainfall",
+    adhkars: [
+      AdhkarData(
+        arabicText: "مُطِـرْنا بِفَضْـلِ اللهِ وَرَحْمَـتِه",
+        translationText:
+            "We have been given rain by the grace and mercy of Allah.",
+        transliterationText: "Muṭirnā bifaḍlillāhi wa raḥmatih.",
+        URLReference: "https://sunnah.com/hisn:173",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c66",
+    title: "Asking for clear skies",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "اللّهُمَّ حَوالَيْنا وَلا عَلَيْـنا، اللّهُمَّ عَلى الآكـامِ وَالظِّـراب، وَبُطـونِ الأوْدِية، وَمَنـابِتِ الشَّجـر",
+        translationText:
+            "O Allah, let the rain fall around us and not upon us, O Allah, (let it fall) on the pastures, hills, valleys, and the roots of trees.",
+        transliterationText:
+            "Allāhumma ḥawālaynā wa lā `alaynā. Allāhumma `ala ‘l-ākāmi waẓ-ẓirāb, wa buṭūni ‘l-awdiyati, wa manābitish-shajar.",
+        URLReference: "https://sunnah.com/hisn:174",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c67",
+    title: "Upon sighting the crescent moon",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "اللهُ أَكْـبَر، اللّهُمَّ أَهِلَّـهُ عَلَيْـنا بِالأمْـنِ وَالإيمـان، والسَّلامَـةِ والإسْلام، وَالتَّـوْفيـقِ لِما تُحِـبُّ رَبَّنـا وَتَـرْضـى، رَبُّنـا وَرَبُّكَ الله",
+        translationText:
+            "Allah is the Most Great. O Allah, bring us the new moon with security and Faith, with peace and in Islam, and in harmony with what our Lord loves and what pleases Him. Our Lord and your Lord is Allah.",
+        transliterationText:
+            "Allāhu Akbar, Allāhumma ahillahu `alayna bi ‘l-amni wa ‘l-īmān, was-salāmati wa ‘l-'Islām, wat-tawfīqi limā tuḥibbu Rabbanā wa tarḍā, Rabbunā wa Rabbukallāh.",
+        URLReference: "https://sunnah.com/hisn:175",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c68",
+    title: "Upon breaking fast",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "ذَهَـبَ الظَّمَـأُ، وَابْتَلَّـتِ العُـروق، وَثَبَـتَ الأجْـرُ إِنْ شـاءَ الله",
+        translationText:
+            "The thirst is gone, the veins are moistened, and the reward is confirmed, if Allah wills.",
+        transliterationText:
+            "Dhahabaẓ-ẓama', wabtallati ‘l-`urūq, wa thabata ‘l-'ajru in shā Allāh.",
+        URLReference: "https://sunnah.com/hisn:176",
+      ),
+      AdhkarData(
+        arabicText:
+            "اللّهُـمَّ إِنَّـي أَسْـأَلُـكَ بِرَحْمَـتِكَ الّتي وَسِـعَت كُلَّ شيء، أَنْ تَغْـفِرَ لي",
+        translationText:
+            "O Allah, I ask You by Your mercy, which encompasses all things, that You forgive me.",
+        transliterationText:
+            "Allāhumma innī as'aluka bi raḥmatika ‘l-latī wasi`at kulla shay' an taghfira lī.",
+        URLReference: "https://sunnah.com/hisn:177",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c69",
+    title: "Before eating",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "إِذَا أَكَلَ أَحَدُكُمْ طَعَاماً فَلْيَقُلْ بِسْمِ اللَّهِ، فَإِنْ نَسِيَ فِي أَوَّلِهِ فَلْيَقُلْ بسمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ",
+        translationText:
+            "When anyone of you begins eating, say: With the Name of Allah. And if you forget then, when you remember, say: With the Name of Allah, in the beginning, and in the end.",
+        transliterationText:
+            "When anyone of you begins eating, say: Bismillāh. And if you forget then when you remember, say: Bismillāhi fī awwalihi wa ākhirih.",
+        URLReference: "https://sunnah.com/hisn:178",
+      ),
+      AdhkarData(
+        arabicText:
+            'مَنْ أَطْعَمَهُ اللَّهُ الطَّعَامَ فَلْيَقُلْ: "اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَأَطْعِمْنَا خَيْراً مِنْهُ"، وَمَنْ سَقَاهُ اللَّهُ لَبَناً فَلْيَقُلْ "اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ"',
+        translationText:
+            "Whomever Allah has given food, should say: O Allah, bless us in it and provide us with better than it. Whomever Allah has given milk to drink, should say : O Allah, bless us in it and give us more of it.",
+        transliterationText:
+            "Whomever Allah has given food, should say: Allāhumma bārik lanā fīhi, wa aṭ`imnā khayran minh. Whomever Allah has given milk to drink, should say : Allāhumma bārik lanā fīhi, wa zidnā minh.",
+        URLReference: "https://sunnah.com/hisn:179",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c70",
+    title: "Upon completing the meal",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "الْحَمْـدُ للهِ الَّذي أَطْعَمَنـي هـذا وَرَزَقَنـيهِ مِنْ غَـيْرِ حَوْلٍ مِنِّي وَلا قُوَّة",
+        translationText:
+            "Praise is to Allah Who has given me this food, and sustained me with it though I was unable to do it and powerless.",
+        transliterationText:
+            "Alhamdu lillāhi ‘l-ladhī aṭ`amanī hādhā, wa razaqanīhi min ghayri ḥawlin minnī wa lā quwwah.",
+        URLReference: "https://sunnah.com/hisn:180",
+      ),
+      AdhkarData(
+        arabicText:
+            "الْحَمْـدُ للهِ حَمْـداً كَثـيراً طَيِّـباً مُبـارَكاً فيه، غَيْرَ مَكْفِيٍّ وَلا مُوَدَّعٍ وَلا مُسْتَغْـنىً عَنْـهُ رَبَّـنا",
+        translationText:
+            "All praise is to Allah, praise in abundance, good and blessed. It cannot [be compensated for, nor can it] be left, nor can it be done without, our Lord.",
+        transliterationText:
+            "Alhamdu lillāhi ḥamdan kathīran tayyiban mubārakan fīh, ghayra makfiyyin wa lā muwadda`in, wa lā mustaghnan `anhu Rabbanā.",
+        URLReference: "https://sunnah.com/hisn:181",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c71",
+    title: "Of the guest for the host",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "اللّهُـمَّ بارِكْ لَهُمْ فيما رَزَقْـتَهُم، وَاغْفِـرْ لَهُـمْ وَارْحَمْهُمْ",
+        translationText:
+            "O Allah, bless them in what You have provided for them, and forgive them and have mercy on them.",
+        transliterationText:
+            "Allāhumma bārik lahum fī mā razaqtahum, wagh’fir lahum warḥamhum.",
+        URLReference: "https://sunnah.com/hisn:182",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c72",
+    title: "To one who intends to give food or drink",
+    adhkars: [
+      AdhkarData(
+        arabicText: "اللّهُـمَّ أَطْعِمْ مَن أَطْعَمَني، وَاسْقِ مَن سقاني",
+        translationText:
+            "O Allah, feed the one who has fed me, and give drink to the one who has given me drink.",
+        transliterationText: "Allāhumma aṭ`im man aṭ`amanī wasqi man saqānī.",
+        URLReference: "https://sunnah.com/hisn:183",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c73",
+    title: "When breaking fast in someone’s home",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "أَفْطَـرَ عِنْدَكُم الصّـائِمونَ وَأَكَلَ طَعامَـكُمُ الأبْـرار، وَصَلَّـتْ عَلَـيْكُمُ الملائِكَـة",
+        translationText:
+            "With you, those who are fasting have broken their fast, you have fed those who are righteous, and the angels recite their prayers upon you.",
+        transliterationText:
+            "Afṭara `indakumuṣ-ṣā'imūn, wa akala ṭa`āmakumu ‘l-'abrār, wa ṣallat `alaykumu ‘l-malā'ikah.",
+        URLReference: "https://sunnah.com/hisn:184",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c74",
+    title:
+        "By one fasting when presented with food and does not break his fast",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "(إِذَا دُعِيَ أَحَدُكُمْ فَلْيُجِبْ، فَإِنْ كَانَ صَائِماً فَلْيُصَلِّ، وَإِنْ كَانَ مُفْطِراً فَلْيَطْعَمْ) ، وَمَعْنَى فَلْيُصَلِّ أَيْ فَلْيَدْعُ.",
+        translationText:
+            "When you are invited (to eat) then reply to the invitation. If you are fasting then invoke Allah's blessings (on your host), and if you are not fasting then eat.",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:185",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c75",
+    title: "When insulted while fasting",
+    adhkars: [
+      AdhkarData(
+        arabicText: "إِنِّي صَائِمٌ، إِنِّي صَائِمٌ",
+        translationText: "I am fasting. I am fasting.",
+        transliterationText: "Innī ṣā'im, innī ṣā'im.",
+        URLReference: "https://sunnah.com/hisn:186",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c76",
+    title: "Upon seeing the early or premature fruit",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "اللّهُـمَّ بارِكْ لَنا في ثَمَـرِنا، وَبارِكْ لَنا في مَدينَتِنـا، وَبارِكْ لَنا في صاعِنـا، وَبارِكْ لَنا في مُدِّنا",
+        translationText:
+            "O Allah, bless us in our dates and bless us in our town, bless us in our Sa' and in our Mudd.",
+        transliterationText:
+            "Allahumma bārik lanā fī thamarinā, wa bārik lanā fī madīnatinā wa bārik lanā fī ṣā`inā, wa bārik lanā fī muddinā.",
+        URLReference: "https://sunnah.com/hisn:187",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c77",
+    title: "Upon sneezing",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "إِذَا عَطَسَ أَحَدُكُم فَلْيَقُلِ (الْحَمْدُ لِلَّهِ)، وَلْيَقُلْ لَهُ أَخُوهُ أَوْ صَاحِبُهُ: (يَرْحَمُكَ اللَّهُ)، فَإِذَا قَالَ لَهُ: (يَرحَمُكَ اللَّهُ)، فَلْيَقُلْ: (يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ)",
+        translationText:
+            "When you sneeze, then say: All praises and thanks are to Allah. Your companion should say: May Allah have mercy upon you. When someone says Yarḥamukallāh to you then you should say: May Allah guide you and set your affairs in order.",
+        transliterationText:
+            "When you sneeze , then say : Alḥamdulillāh Your companion should say : Yarḥamukallāh When someone says Yarḥamukallāh to you then you should say: Yahdīkumu ‘llāhu wa yuṣliḥu bālakum.",
+        URLReference: "https://sunnah.com/hisn:188",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c78",
+    title: "When a disbeliever praises Allah after sneezing",
+    adhkars: [
+      AdhkarData(
+        arabicText: "يَهْـديكُـمُ اللهُ وَيُصْـلِحُ بالَـكُم",
+        translationText: "May Allah guide you and set your affairs in order",
+        transliterationText: "Yahdīkumullāhu wa yuṣliḥu bālakum.",
+        URLReference: "https://sunnah.com/hisn:189",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c79",
+    title: "When a disbeliever praises Allah after sneezing",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "بارَكَ اللّهُ لَك، وَبارَكَ عَلَـيْك، وَجَمَعَ بَيْـنَكُما في خَـيْر",
+        translationText:
+            "May Allah bless you, and shower His blessings upon you, and join you together in goodness.",
+        transliterationText:
+            "Bārakallāhu lak, wa bāraka `alayk, wa jama`a baynakumā fī khayr.",
+        URLReference: "https://sunnah.com/hisn:190",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c80",
+    title: "On the wedding night or when buying an animal",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "إِذَا تَزَوَّجَ أَحَدُكُمُ امْرَأَةً، أَوْ إِذَا اشْتَرَى خَادِماً فَلْيَقُلْ: (اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا جَبَلْتَهَا  لَيْهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ)، وَإِذَا اشْتَرَى بَعِيراً فَلْيَأْخُذْ بِذِرْوَةِ سَنَامِهِ وَلْيَقُلْ مِثْلَ ذَلِكَ.",
+        translationText:
+            "When any of you marries a woman or purchases a maid-servant then let him say : O Allah, I ask You for the goodness of her, and the goodness upon which You have created her, and I seek refuge in You from the evil of her, and from the evil upon which You have created her. If you purchase a camel then take hold of the top of its hump and say the same.",
+        transliterationText:
+            "When any of you marries a woman or purchases a maid-servant then let him say: Allāhumma innī as'aluka khayrahā wa khayra mā jabaltahā `alayh, wa a`ūdhu bika min sharrihā wa sharri mā jabaltahā `alayh.",
+        URLReference: "https://sunnah.com/hisn:191",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c81",
+    title: "Before sexual intercourse with the wife",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "بِسْمِ الله اللّهُـمَّ جَنِّبْنا الشَّيْـطانَ، وَجَنِّبِ الشَّـيْطانَ ما رَزَقْـتَنا",
+        translationText:
+            "With the Name of Allah. O Allah, keep the Devil away from us, and keep the Devil away from that which You provide for us.",
+        transliterationText:
+            "Bismillāh. Allāhumma jannibnash-Shayṭān, wa jannibish-Shayṭāna mā razaqtanā.",
+        URLReference: "https://sunnah.com/hisn:192",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c82",
+    title: "When angry",
+    adhkars: [
+      AdhkarData(
+        arabicText: "أَعـوذُ بِاللهِ مِنَ الشَّيْـطانِ الرَّجيـم",
+        translationText: "I seek refuge in Allah from Satan the outcast.",
+        transliterationText: "A`ūdhu billāhi minash-Shayṭānir-rajīm.",
+        URLReference: "https://sunnah.com/hisn:193",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c83",
+    title: "Upon seeing someone in trial or tribulation",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "الْحَمْـدُ للهِ الّذي عافاني مِمّا ابْتَـلاكَ بِهِ، وَفَضَّلَـني عَلى كَثيـرٍ مِمَّنْ خَلَـقَ تَفْضـيلا",
+        translationText:
+            "Praise is to Allah Who has spared me what He has afflicted you with, and preferred me greatly above much of what He has created.",
+        transliterationText:
+            "Alhamdu lillāhi ‘l-ladhī `āfānī mimmab-talāka bihi wa faḍḍalanī `alā kathīrin mimman khalaqa tafḍīlā.",
+        URLReference: "https://sunnah.com/hisn:194",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c84",
+    title: "At a sitting or gathering",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            'عن ابن عمر قال : كان يعد لرسول الله صلى الله عليه وسلم في المجلس الواحد مائة مرة من قبل أن يقوم "رب اغفر لي وتب علي إنك أنت التواب الغفور"',
+        translationText:
+            "Ibn Umar (ra) said: Allah's Messenger (ﷺ) used to repeat in a single sitting: My Lord, forgive me, and accept my repentance, You are the Ever-Relenting, the All-Forgiving.",
+        transliterationText:
+            "Ibn Umar (ra) said: Allah's Messenger (ﷺ) used to repeat in a single sitting: Rabbigh’fir lī wa tub `alayy innaka antat-Tawwābu ‘l-Ghafūr.",
+        URLReference: "https://sunnah.com/hisn:195",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c85",
+    title:
+        "For the expiation of sins, said at the conclusion of a sitting or gathering",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "سُبْحـانَكَ اللّهُـمَّ وَبِحَمدِك، أَشْهَـدُ أَنْ لا إِلهَ إِلاّ أَنْتَ أَسْتَغْفِرُكَ وَأَتوبُ إِلَـيْك",
+        translationText:
+            "Glory is to You, O Allah, and praise is to You. I bear witness that there is none worthy of worship but You. I seek Your forgiveness and repent to You.",
+        transliterationText:
+            "Subhānaka Allāhumma wa biḥamdik, ash-hadu an lā ilāha illā ant, astaghfiruka wa atību ilayk.",
+        URLReference: "https://sunnah.com/hisn:196",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c86",
+    title: "Returning a supplication of forgiveness",
+    adhkars: [
+      AdhkarData(
+        arabicText: "وَلَكَ",
+        translationText: "And you.",
+        transliterationText: "Walaka",
+        URLReference: "https://sunnah.com/hisn:197",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c87",
+    title: "To one who does you a favour",
+    adhkars: [
+      AdhkarData(
+        arabicText: "جَزاكَ اللهُ خَـيْراً",
+        translationText: "May Allah reward you with good.",
+        transliterationText: "Jazākallāhu khayra.",
+        URLReference: "https://sunnah.com/hisn:198",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c88",
+    title: "To one who does you a favour",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            ".(مَنْ حَفِظَ عَشْرَ آيَاتٍ مِنْ أَوَّلِ سُورَةِ الْكَهْفِ عُصِمَ مِنَ الدَّجَّالِ) ، وَالْاسْتِعَاذَةُ بِاللَّهِ مِنْ فِتْنَتِهِ عَقِبَ التَّشَهُّدِ الْأَخِيرِ مِنْ كُلِّ صَلاَةٍ.",
+        translationText:
+            "Whoever memorizes ten 'Ayat (Verses) from the beginning of Surat Al-Kahf, will be protected from the False Messiah 1 if he recites in every prayer after the final Tashahhud before ending the prayer, seeking the protection of Allah from the trials of the False Messiah.",
+        transliterationText: ".",
+        URLReference: "https://sunnah.com/hisn:199",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c89",
+    title: "To one who pronounces his love for you, for Allah’s sake",
+    adhkars: [
+      AdhkarData(
+        arabicText: "أَحَبَّـكَ الّذي أَحْبَبْـتَني لَه",
+        translationText: "May He for Whose sake you love me, love you.",
+        transliterationText: "Aḥabbaka ‘lladhī aḥbabtanī lah.",
+        URLReference: "https://sunnah.com/hisn:200",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c90",
+    title: "To one who has offered you some of his wealth",
+    adhkars: [
+      AdhkarData(
+        arabicText: "بارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِك",
+        translationText:
+            "May Allah bless you in your family and your property.",
+        transliterationText: "Bārakallāhu laka fī ahlika wa mālik.",
+        URLReference: "https://sunnah.com/hisn:201",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c91",
+    title: "To the debtor when his debt is settled",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "بارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِك، إِنَّما جَـزاءُ السَّلَفِ الْحَمْدُ والأَداء",
+        translationText:
+            "May Allah bless you in your family and your wealth, surely the reward for a loan is praise and returning (what was borrowed).",
+        transliterationText:
+            "Bārakallāhu laka fī ahlika wa mālik, innamā jazā'us-salafi ‘l-ḥamdu wa‘l-adā'.",
+        URLReference: "https://sunnah.com/hisn:202",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c92",
+    title: "For fear of shirk",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "بارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِك، إِنَّما جَـزاءُ السَّلَفِ الْحَمْدُ والأَداء",
+        translationText:
+            "O Allah, I seek refuge in You lest I associate anything with You knowingly, and I seek Your forgiveness for what I know not.",
+        transliterationText:
+            "Allāhumma innī a`ūdhu bika an ushrika bika wa anā a`lam, wa astaghfiruka limā lā a`lam.",
+        URLReference: "https://sunnah.com/hisn:203",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c93",
+    title: "To someone who says 'May Allah bless you'",
+    adhkars: [
+      AdhkarData(
+        arabicText: "وَفيكَ بارَكَ الله",
+        translationText: "And may Allah bless you.",
+        transliterationText: "Wafīka bārakallāh.",
+        URLReference: "https://sunnah.com/hisn:204",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c94",
+    title: "The scorn of ascribing things to evil omens",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "اللّهُـمَّ لا طَيْـرَ إِلاّ طَيْـرُك، وَلا خَـيْرَ إِلاّ خَـيْرُك، وَلا إِلهَ غَيْـرُك",
+        translationText:
+            "O Allah there is no portent other than Your portent, no goodness other than Your goodness, and none worthy of worship other than You.",
+        transliterationText:
+            "Allāhumma lā ṭayra illā ṭayruk, wa lā khayra illā khayruk, wa lā ilāha ghayruk.",
+        URLReference: "https://sunnah.com/hisn:205",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c95",
+    title: "When mounting an animal or any means of transport",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "بِسْـمِ اللهِ وَالْحَمْـدُ لله، ﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ﴾ الحَمْـدُ لله، الحَمْـدُ لله، الحَمْـدُ لله، اللهُ أكْـبَر، اللهُ أكْـبَر، اللهُ أكْـبَر، سُـبْحانَكَ اللّهُـمَّ إِنّي ظَلَـمْتُ نَفْسي فَاغْـفِرْ لي، فَإِنَّهُ لا يَغْفِـرُ الذُّنوبَ إِلاّ أَنْـت",
+        translationText:
+            "With the Name of Allah. Praise is to Allah. Glory is to Him Who has provided this for us though we could never have had it by our efforts. Surely, unto our Lord, we are returning. Praise is to Allah. Praise is to Allah. Praise is to Allah. Allah is the Most Great. Allah is the Most Great. Allah is the Most Great. Glory is to You. O Allah, I have wronged my own soul. Forgive me, for surely none forgives sins but You.",
+        transliterationText:
+            "Bismillāh, walḥamdulillāh. Subḥāna ‘lladhī sakhkhara lanā hādhā wa mā kunnā lahu muqrinīn. Wa innā ilā Rabbinā lamunqalibūn. Alḥamdulillāh, alḥamdulillāh, alḥamdulillāh, Allāhu Akbar, Allāhu Akbar, Allāhu Akbar, Subḥānaka ‘llāhumma innī ẓalamtu nafsī, faghfir lī, fa innahu lā yaghfirudh-dhunūba illā ant.",
+        URLReference: "https://sunnah.com/hisn:206",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c96",
+    title: "For travel",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            '"اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، ﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ﴾ اللَّهُمَّ إِنّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا البِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا فَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَليفَةُ فِي الْأَهْلِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ"، وإذا رَجَعَ قَالَهُنَّ وَزَادَ فِيهِنَّ: "آيِبُونَ، تائِبُونَ، عَابِدُونَ، لِرَبِّنَا حَامِدُونَ".',
+        translationText:
+            "Allah is the Most Great. Allah is the Most Great. Allah is the Most Great. Glory is to Him Who has provided this for us though we could never have had it by our efforts. Surely, unto our Lord we are returning. O Allah, we ask You on this our journey for goodness and piety, and for works that are pleasing to You. O Allah, lighten this journey for us and make its distance easy for us. O Allah, You are our Companion on the road and the One in Whose care we leave our family. O Allah, I seek refuge in You from this journey's hardships, and from the wicked sights in store and from finding our family and property in misfortune upon returning. (Upon returning recite the same again adding :) We return repentant to our Lord, worshipping our Lord, and praising our Lord.",
+        transliterationText:
+            "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar, Subḥāna ‘l-ladhi sakhkhara lanā hādhā wa mā kunnā lahu muqrinīn. Wa innā ilā Rabbinā lamunqalibūn. Allāhumma innā nas'aluka fī safarinā hādha ‘l-birra wat-taqwā, Wa mina ‘l-`amali mā tarḍā, Allāhumma hawwin `alaynā safaranā hādhā waṭwi `annā bu`dah, Allāhumma antas-sāḥibu fis-safar, wa ‘l-khalīfatu fil-ahl, Allāhumma innī a`ūdhu bika min wa`thā'is-safar, wa ka'ābati ‘l-manẓar, wa sū'il-munqalabi fil-māli wa ‘l-ahl. (Upon returning recite the same again adding): Ā’ibūna, tā'ibūna, `ābidūn, Li Rabbinā ḥāmidūn.",
+        URLReference: "https://sunnah.com/hisn:207",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c97",
+    title: "Upon entering a town or village",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "أللّـهُمَّ رَبَّ السَّـمواتِ السّـبْعِ وَما أَظْلَلَـن، وَرَبَّ الأَراضيـنَ السّـبْعِ وَما أقْلَلْـن، وَرَبَّ الشَّيـاطينِ وَما أَضْلَلْـن، وَرَبَّ الرِّياحِ وَما ذَرَيْـن، أَسْـأَلُـكَ خَيْـرَ هذهِ الْقَـرْيَةِ وَخَيْـرَ أَهْلِـها، وَخَيْـرَ ما فيها، وَأَعـوذُ بِكَ مِنْ شَـرِّها وَشَـرِّ أَهْلِـها، وَشَـرِّ ما فيها",
+        translationText:
+            "O Allah, Lord of the seven heavens and all they overshadow, Lord of the seven worlds and all they uphold, Lord of the devils and all they lead astray, Lord of the winds and all they scatter. I ask You for the goodness of this town, and for the goodness of its people, and for the goodness it contains. I seek refuge in You from its evil, from the evil of its people, and from the evil it contains.",
+        transliterationText:
+            "Allāhumma Rabbas-samāwātis-sab`i wa mā aẓlaln, Wa Rabba ‘l-arāḍīnas-sab`i wa mā aqlaln, wa Rabbash-shayāṭīni wa mā aḍlaln, wa Rabbar-riyāḥi wa mā dharayn. As'aluka khayra hādhihi ‘l-qaryah, wa khayra ahlihā, wa khayra māfīhā, wa a`ūdhu bika min sharrihā, wa sharri ahlihā, wa sharri mā fīhā.",
+        URLReference: "https://sunnah.com/hisn:208",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c98",
+    title: "When entering the market",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "لا إلهَ إلاّ اللّه وحدَهُ لا شريكَ لهُ، لهُ المُلْـكُ ولهُ الحَمْـد، يُحْيـي وَيُميـتُ وَهُوَ حَيٌّ لا يَمـوت، بِيَـدِهِ الْخَـيْرُ وَهوَ على كلّ شيءٍ قدير",
+        translationText:
+            "None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise. He brings life and He causes death, and He is living and does not die. In His Hand is all good, and He is Able to do all things. ",
+        transliterationText:
+            "Lā ilāha illallāh waḥdahu lā sharīka lah, Lahu ‘l-mulku wa lahu ‘l-ḥamd, Yuḥyī wa yumīt, wa huwa ḥayyun lā yamūt, Biyadihi ‘l-khayr, wa huwa `alā kulli shay'in Qadīr.",
+        URLReference: "https://sunnah.com/hisn:209",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c99",
+    title: "When the mounted animal (or mean of transport) stumbles",
+    adhkars: [
+      AdhkarData(
+        arabicText: "بِسْـمِ اللهِ",
+        translationText: "With the Name of Allah.",
+        transliterationText: "Bismillāh.",
+        URLReference: "https://sunnah.com/hisn:210",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c100",
+    title: "Supplication of the traveller for the resident",
+    adhkars: [
+      AdhkarData(
+        arabicText: "أَسْتَـوْدِعُكُـمُ اللَّهَ الَّذي لا تَضـيعُ وَدائِعُـه",
+        translationText:
+            "I place you in the trust of Allah, whose trust is never misplaced.",
+        transliterationText:
+            "Astawdi`ukumu ‘llāha ‘l-ladhi lā taḍī`u wadā'i`uh.",
+        URLReference: "https://sunnah.com/hisn:211",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c101",
+    title: "Supplication of the resident for the traveller",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "أَسْتَـوْدِعُ اللَّهَ ديـنَكَ وَأَمانَتَـكَ، وَخَـواتيـمَ عَمَـلِك",
+        translationText:
+            "I leave your religion in the care of Allah, as well as your safety, and the last of your deeds.",
+        transliterationText:
+            "Astawdi`ullāha dīnak, wa amānatak, wa khawātīma `amalik.",
+        URLReference: "https://sunnah.com/hisn:212",
+      ),
+      AdhkarData(
+        arabicText:
+            "زَوَّدَكَ اللَّهُ التقْوى، وَغَفَـرَذَنْـبَكَ، وَيَسَّـرَ لَكَ الخَـيْرَ حَيْـثُما كُنْـت",
+        translationText:
+            "May Allah give you piety as your provision, forgive your sins, and make goodness easy for you wherever you are.",
+        transliterationText:
+            "Zawwadaka ‘llāhut-taqwā, wa ghafara dhanbak, wa yassara laka ‘l-khayra ḥaythu mā kunt.",
+        URLReference: "https://sunnah.com/hisn:213",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c102",
+    title: "Takbir and Tasbih during travel",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "قَالَ جَابِرٌ رضي الله عنه: (كُنَّا إِذَا صَعَدْنَا كَبَّرْنَا، وَإِذَا نَزَلْنَا سَبَّحْنَا)",
+        translationText:
+            "Jabir (ra), said: Whenever we went up a hill we would say Allāhu Akbar (Allah is the Most Great) and when we descended we would say Subḥānallāh (Glory is to Allah).",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:214",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c103",
+    title: "Prayer of the traveller as dawn approaches",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "سَمِـعَ سـامِعٌ بِحَمْـدِ اللهِ وَحُسْـنِ بَلائِـهِ عَلَيْـنا. رَبَّنـا صـاحِبْـنا وَأَفْـضِل عَلَيْـنا عائِذاً باللهِ مِنَ النّـار",
+        translationText:
+            "JabHe Who listens has heard that we praise Allah for the good things He gives us. Our Lord, be with us and bestow Your favor upon us. I seek the protection of Allah from the Fire.",
+        transliterationText:
+            "Sami`a sāmi`un biḥamdillāhi wa ḥusni balā'ihi `alaynā. Rabbanā ṣāḥibnā, wa afḍil `alaynā, `ā'idhan billāhi minan-nār.",
+        URLReference: "https://sunnah.com/hisn:215",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c104",
+    title: "Stopping or lodging somewhere in travel and otherwise",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "أَعـوذُ بِكَلِـماتِ اللّهِ التّـامّاتِ مِنْ شَـرِّ ما خَلَـق",
+        translationText:
+            "I seek refuge in the Perfect Words of Allah from the evil of what He has created.",
+        transliterationText:
+            "A`ūdhu bikalimāti ‘llāhit-tāmmāti min sharri mā khalaq.",
+        URLReference: "https://sunnah.com/hisn:216",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c105",
+    title: "While returning from travel",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "يُكَبِّرُ عَلَى كُلِّ شَرَفٍ ثَلاَثَ تَكْبِيرَاتٍ ثُمَّ يَقُولُ: لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنا حَامِدُونَ، صَدَقَ اللَّهُ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الْأَحْزابَ وَحْدَهُ",
+        translationText:
+            "From every elevated point say Allāhu Akbar (Allah is the Most Great) three times and then recite: None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things. We return repentant to our Lord, worshipping our Lord, and praising our Lord. He fulfilled His Promise, He aided His slave, and He alone defeated the Confederates.",
+        transliterationText:
+            "From every elevated point say Allāhu Akbar (three times), and then recite: Lā ilāha illallāh waḥdahu lā sharīka lah, lahu ‘l-mulku, walahu ‘l-ḥamd, wa Huwa `alā kulli shay'in Qadīr, ā'ibūna, tā'ibūna,`ābidūn, li Rabbinā ḥāmidūn, sadaqallāhu wa`dah, wa nasara `abdah, wa hazama ‘l-'aḥzāba waḥdah.",
+        URLReference: "https://sunnah.com/hisn:217",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c106",
+    title: "What to say upon receiving pleasing or displeasing news",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا أَتَاهُ الْأَمْرُ يَسُرُّهُ قَالَ: (الْحَمْدُ لِلَّهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ) وَإِذَا أَتَاهُ الْأَمْرُ يَكْرَهُهُ قَالَ: (الْحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ)",
+        translationText:
+            "When something happened that pleased him, the Prophet (ﷺ) used to say: Praise is to Allah Who by His blessings all good things are perfected. And if something happened that displeased him, he used to say: Praise is to Allah in all circumstances.",
+        transliterationText:
+            "When something happened that pleased him, the Prophet (ﷺ) used to say: Alḥamdu lillāhi ‘lladhi bi ni`matihi tatimmuṣ-ṣāliḥāt. And if something happened that displeased him, he used to say: Alḥamdu lillāhi `alā kulli ḥāl.",
+        URLReference: "https://sunnah.com/hisn:218",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c107",
+    title: "Excellence of sending prayers upon the Prophet (saws)",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "قَالَ النَّبِيُّ صلى الله عليه وسلم: (مَنْ صَلَّى عَلَيَّ صَلاَةً صَلَّى اللَّهُ عَلَيْهِ بِهَا عَشْراً)",
+        translationText:
+            'The Prophet (ﷺ) said: "Whoever prays for Allah\'s blessings upon me once, will be blessed for it by Allah ten times."',
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:219",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: (لاَ تَجْعَلُوا قَبْرِي عِيداً وَصَلُّوا عَلَيَّ؛ فَإِنَّ صَلاَتَكُم تَبْلُغُنِي حَيْثُ كُنْتُمْ))",
+        translationText:
+            "The Prophet (ﷺ) said: \"Do not make my grave a place of ritual celebration, but pray for Allah's blessings upon me, for your blessings reach me from wherever you are.",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:220",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: (الْبَخِيلُ مَنْ ذُكِرْتُ عِنْدَهُ فَلَمْ يُصَلِّ عَلَيَّ)",
+        translationText:
+            "The Prophet (ﷺ) said: \"The miser is the one in whose presence I am mentioned yet does not pray for Allah's blessings upon me.\"",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:221",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم:(إِنَّ لِلَّهِ مَلاَئِكَةً سَيَّاحِينَ فِي الْأَرْضِ يُبَلِّغُونِي مِنْ أُمَّتِي السَّلاَمَ)",
+        translationText:
+            "The Prophet (ﷺ) said: \"Indeed Allah has angels who roam the earth and they convey to me the greetings (or prayers of peace) of my Ummah (nation).\"",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:222",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: (مَا مِنْ أَحَدٍ يُسَلِّمُ عَلَيَّ إِلاَّ رَدَّ اللَّهُ عَلَيَّ رُوحِيَ حَتَّى أَرُدَّ عَلَيْهِ السَّلاَمَ)",
+        translationText:
+            "The Prophet (ﷺ) said: \"No one sends greetings (or prayers of peace) upon me but Allah returns my soul to me so that I may return his greetings.\"",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:223",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c108",
+    title: "Excellence of spreading the Islamic greeting",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: (لاَ تَدْخُلُوا الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلاَ تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلاَ أَدُلُّكُم عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُم، أَفْشُوا السَّلاَمَ بَيْنَكُمْ)",
+        translationText:
+            "The Prophet (ﷺ) said: \"You shall not enter Paradise until you believe, and you have not believed until you love one another. Shall I tell you of something you can do to make you love one another? Spread the greetings of Salam (peace) amongst yourselves (i.e. between each other).",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:224",
+      ),
+      AdhkarData(
+        arabicText:
+            "ثَلاَثٌ مَنْ جَمَعَهُنَّ فَقَدْ جَمَعَ الْإِيمَانَ: الْإِنْصَافُ مِنْ نَفْسِكَ، وَبَذْلُ السَّلاَمِ لِلْعَالَمِ، وَالْإِنْفَاقُ مِنَ الإِقْتَارِ",
+        translationText:
+            "Three characteristics, whoever combines them, has completed his faith: to be just, to spread greetings to all people and to spend (charitably) out of the little you have.",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:225",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا: أنَّ رَجُلاً سَأَلَ النَّبِيَّ صلى الله عليه وسلم أيُّ الْإِسْلاَمِ خَيْرٌ قَالَ: (تُطْعِمُ الطَّعَامَ، وَتَقْرأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ)",
+        translationText:
+            "`Abdullah bin `Umar (RA) said: A man asked the Prophet (ﷺ), \"What is the best act of Islam?\" He said, \"To feed others and to give greetings of Salam (peace) to those whom you know and to those whom you do not know. \"",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:226",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c109",
+    title: "Returning a greeting to a disbeliever",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "إذَا سَلَّمَ عَلَيْكُمْ أَهْلُ الْكِتَابِ فَقُولُوا: وَعَلَيْكُمْ",
+        translationText:
+            "If one of the People of the Scripture (i.e. Christians and Jews) greets you saying As-Salaamu `alaykum, then say (to him): fAnd upon you .",
+        transliterationText:
+            "If one of the People of the Scripture (i.e. Christians and Jews) greets you, saying As-Salāmu `alaykum, then say (to him): Wa `alaykum.",
+        URLReference: "https://sunnah.com/hisn:227",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c110",
+    title: "Upon hearing a rooster crow or the braying of a donkey",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "إِذَا سَمِعْتُمْ صِيَاحَ الدِّيَكَةِ فَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ؛ فَإِنَّهَا رَأَتْ مَلَكاً وَإِذَا سَمِعْتُمْ نَهِيقَ الْحِمَارِ فَتَعَوَّذُوا بِاللَّهِ مِنَ الشَّيطَانِ؛ فَإِنَّهُ رَأَى شَيْطَاناً",
+        translationText:
+            "When you hear the cock's crow, ask Allah for His favor upon you for surely it has seen an angel. When you hear the bray of a donkey, seek refuge in Allah from Satan, for surely it has seen a devil.",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:228",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c111",
+    title: "Upon hearing the barking of dogs at night",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "إِذَا سَمِعْتُمْ نُبَاحَ الْكِلاَبِ وَنَهِيقَ الْحَمِيرِ بِاللَّيْلِ فَتَعَوَّذُوا بِاللَّهِ مِنْهُنَّ؛ فَإِنَّهُنَّ يَرَيْنَ مَا لاَ تَرَوْنَ",
+        translationText:
+            "When you hear a dog barking or a donkey braying in the night, then seek refuge in Allah from them, for surely they have seen what you see not.",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:229",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c112",
+    title: "Upon hearing the barking of dogs at night",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            'قال صلى الله عليه وسلم: "اللَّهُم فأيما مؤمن سببته فاجعل ذلك له قربة إليك يوم القيامة"',
+        translationText:
+            "O Allah, whomever of the believers I have abused, give him the reward of a sacrificial slaughter for it on the Day of Resurrection.",
+        transliterationText:
+            "Allāhumma fa'ayyumā mu'minin sababtuhu faj`al dhālika lahu qurbatan ilayka yawma ‘l-qiyāmah.",
+        URLReference: "https://sunnah.com/hisn:230",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c113",
+    title: "The etiquette of praising a fellow Muslim",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            'قال صلى الله عليه وسلم: "إِذَا كَانَ أَحَدُكُم مَادِحاً صَاحِبَهُ لاَ مَحَالَةَ فَلْيَقُلْ: أَحْسِبُ فُلاَناً وَاللَّهُ حَسِيبُهُ، وَلاَ أُزَكِّي عَلَى اللَّهِ أَحَداً، أَحْسِبُهُ – إِنْ كَانَ يَعْلَمُ ذَاكَ – كَذَا وَكَذَا"',
+        translationText:
+            "If any of you praises his companion then let him say: I consider (such and such a person), and Allah is his Assessor, (meaning: and I cannot claim anyone to be pious before Allah) if you know of this (good character trait in the person) to be such and such (saying what he thinks is praiseworthy in that person).",
+        transliterationText:
+            "If any of you praises his companion then let him say: Aḥsibu fulānan wallāhu ḥasībuh wa lā uzakkī `alallāhi aḥada.",
+        URLReference: "https://sunnah.com/hisn:231",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c114",
+    title: "For the one that have been praised",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "اللَّهُمَّ لاَ تُؤَاخِذْنِي بِمَا يَقُولُونَ وَاغْفِرْ لِي مَا لاَ يَعْلَمُونَ [وَاجْعَلْنِي خَيْرًا مِمَّا يَظُّنُّونَ]",
+        translationText:
+            "O Allah, do not call me to account for what they say and forgive me for what they have no knowledge of [and make me better than they imagine].",
+        transliterationText:
+            "Allāhumma lā tu'ākhidhnī bimā yaqūlūn, waghfir lī mā lā ya`lamūn [waj`alnī khayran mimmā yaẓunnūn].",
+        URLReference: "https://sunnah.com/hisn:232",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c115",
+    title: "The Talbiya for the one doing Hajj or 'Umrah",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ والنِّعْمَة لَكَ والمُلْكُ، لَا شَرِيكَ لَكَ",
+        translationText:
+            "I am here at Your service, O Allah, I am here at Your service. I am here at Your service, You have no partner, I am here at Your service. Surely the praise, and blessings are Yours, and the dominion. You have no partner.",
+        transliterationText:
+            "Labbayk-Allāhumma labbayk, labbayka lā sharīka laka labbayk, inna ‘l-ḥamda, wanni`mata, laka wa ‘l-mulk, lā sharīka lak.",
+        URLReference: "https://sunnah.com/hisn:233",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c116",
+    title: "The Takbîr passing the black stone",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "طَافَ النَّبيُّ صلى الله عليه وسلم بِالْبَيْتِ عَلَى بَعِيرٍ كُلَّمَا أَتَى الرُّكْنَ أَشَارَ إِلَيْهِ بِشَيْءٍ عِنْدَهُ وَكَبَّرَ",
+        translationText:
+            "The Prophet (ﷺ) performed Tawaf riding a camel. Every time he passed the corner (containing the Black Stone), he would point to it with something that he was holding and say: Allāhu Akbar (Allah is the Most Great)!",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:234",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c117",
+    title: "Between the Yemeni corner and the black stone",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "﴿رَبَّنَا آتِنَا في الدُّنْيَا حسَنَةً وفي الآخِرَةِ حسَنةً وقِنَا عذَابَ النَّارِ﴾",
+        translationText:
+            "Our Lord, grant us the good things in this world, and the good things in the next life, and save us from the punishment of the Fire.",
+        transliterationText:
+            "Rabbanā ātinā fid-dunyā ḥasanah wa fi ‘l-ākhirati ḥasanah wa qinā `adhāban-nār.",
+        URLReference: "https://sunnah.com/hisn:235",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c118",
+    title: "When at Mount Safa and Mount Marwah",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "(لَمَّا دَنَا النَّبِيُّ صلى الله عليه وسلم مِنَ الصَّفَا قَرَأَ: ﴿إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَآئِرِ اللَّهِ﴾ \"أَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ\" فَبَدَأَ بِالصَّفَا فَرَقِيَ عَلَيْهِ حَتَّى رَأَى الْبَيْتَ، فَاسْتَقْبَلَ الْقِبْلَةَ، فَوَحَّدَ اللَّهَ وَكبَّرَهُ وَقَالَ: لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ، أَنْجَزَ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الْأَحْزَابَ وَحْدَهُ، ثُمَّ دَعَا بَيْنَ ذلكَ. قَالَ مِثْلَ هَذَا ثَلاَثَ مَرَّاتٍ) الْحَدِيثُ.وَفِيهِ: (فَفَعَلَ عَلَى الْمَرْوَةِ كَمَا فَعَلَ عَلَى الصَّفَا)",
+        translationText:
+            "Whenever the Prophet (ﷺ) approached Mount Safa, he would recite: Surely Safa and Marwah are among the signs of Allah. I begin by that which Allah began. He began (his Sa'y) at Mount Safa climbing it until he could see the House. He then faced the Qiblah repeating the words: There is none worthy of worship but Allah, and Allah is the Most Great. Then he said: None has the right to be worshipped but Allah alone, Who has no partner, His is the dominion and His is the praise, and He is Able to do all things. None has the right to be worshipped but Allah alone, He fulfilled His Promise, He aided His slave, and He alone defeated Confederates. Then he would ask Allah for what he liked, repeating the same thing like this three times. He did at Mount Marwah as he did at Mount Safa.",
+        transliterationText:
+            "Whenever the Prophet (ﷺ) approached Mount Safa, he would recite: Innaṣ-Ṣafā wa ‘l-Marwata min sha`ā'irillāh. Abda'u bimā bada'allāhu bih. He began (his Sa`y) at Mount Safa climbing it, until he could see the House. He then faced the Qiblah repeating the words: Lā ilāha illallāh, Allāhu Akbar Then he said: Lā ilāha 'illallāh waḥdahu lā sharīka lah, Lahu ‘l-mulku wa lahu ‘l-ḥamd wa Huwa `alā kulli shay'in Qadīr, lā 'ilāha illallāhu waḥdahu, anjaza wa`dahu, wa naṣara `abdahu, wa hazama ‘l 'aḥzāba waḥdah. Then he would ask Allah for what he liked, repeating the same three times. He did at Mount Marwah as he did at Mount Safa.",
+        URLReference: "https://sunnah.com/hisn:236",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c119",
+    title: "The Day of 'Arafah",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "خير الدعاء دعاء يوم عرفة ، وخيرُ ما قلت أنا والنبيُّون من قبلي : لا إله إلا الله وحدهُ لا شريك لهُ ، لهُ الملكُ ولهُ الحمدُ وهو على كل شيء قدير.",
+        translationText:
+            "The Prophet (ﷺ) said: The best invocation is that of the Day of Arafat, and the best that anyone can say is what I and the Prophets before me have said: None has the right to be worshipped but Allah Alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things.",
+        transliterationText:
+            "Lā 'ilāha 'illallāhu waḥdahu lā sharīka lahu, lahul-mulku wa lahul-ḥamdu wa huwa `alā kulli shay'in qadīr.",
+        URLReference: "https://sunnah.com/hisn:237",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c120",
+    title: "Remembrance at Muzdalifa",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "رَكِبَ صلى الله عليه وسلم الْقَصْوَاءَ حَتَّى أَتَى الْمَشْعَرَ الْحَرَامَ فَاسْتَقْبَلَ الْقِبْلَةَ (فَدَعَاهُ، وَكَبَّرَهُ، وَهَللَّهُ، وَوَحَّدَهُ) فَلَمْ يَزَلْ وَاقِفاً حَتَّى أَسْفَرَ جِدَّاً فَدَفَعَ قَبْلَ أَنْ تَطْلُعَ الشَّمسُ.",
+        translationText:
+            "'He (ﷺ) rode Al-Qaswa until he reached Al-MashAAar Al-Haram, he then faced the qiblah, supplicated to Allah, and extoled His greatness and oneness. He stood until the sun shone but left before it rose.'",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:238",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c121",
+    title: "Takbir when throwing each pebble at the Jamarat",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "يُكَبِّرُ كُلَّمَا رَمَى بِحَصَاةٍ عِنْدَ الْجِمَارِ الثَّلاَثِ، ثُمَّ يَتَقَدَّمُ، ويَقِفُ يَدْعُو مُسْتَقْبِلَ الْقِبلَةِ، رَافِعاً يَدَيْهِ بَعْدَ الْجَمْرَةِ الْأُولَى وَالثَّانِيَةِ. أَمَّا جَمْرَةُ الْعَقَبَةِ فَيَرْمِيهَا وَيُكَبِّرُ عِنْدَ كُلِّ حَصَاةٍ وَيَنْصَرِفُ وَلاَ يَقِفُ عِنْدَهَا",
+        translationText:
+            "The Prophet (ﷺ) said Allāhu Akbar (Allah is the Most Great) with each pebble he threw at the three pillars. Then he went forward, stood facing the Qiblah, and raised his hands and called upon Allah. That was after (stoning) the first and second pillars. As for the third, he stoned it and called out Allāhu Akbar with every pebble he threw, but when he was finished he left without standing at it (for supplications).",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:239",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c122",
+    title: "At times of amazement and that which delights",
+    adhkars: [
+      AdhkarData(
+        arabicText: "سُـبْحانَ الله",
+        translationText: "(Glory is to Allah).",
+        transliterationText: "Subḥānallāh!",
+        URLReference: "https://sunnah.com/hisn:240",
+      ),
+      AdhkarData(
+        arabicText: "اللهُ أَكْـبَر",
+        translationText: "(Allah is the Most Great)",
+        transliterationText: "Allāhu Akbar!",
+        URLReference: "https://sunnah.com/hisn:241",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c123",
+    title: "Upon receiving pleasant news",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "كَانَ النَّبيُّ صلى الله عليه وسلم إِذَا أَتَاهُ أَمْرٌ يَسُرُّهُ أَوْ يُسَرُّ بِهِ خَرَّ سَاجِداً شُكْراً لِلَّهِ تَبَارَكَ وَتَعَالَى",
+        translationText:
+            "The Prophet (ﷺ), upon receiving news which pleased him or which caused pleasure, would prostrate in gratitude to Allah blessed and exalted.",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:242",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c124",
+    title: "When feeling some pain in the body",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            'ضَعْ يَدَكَ عَلَى الَّذِي تَألَّمَ مِنْ جَسَدِكَ وَقُلْ: "بِسْمِ اللَّهِ" ثَلاَثاً، وَقُلْ سَبْعَ مَرَّاتٍ: "أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ"',
+        translationText:
+            "Put your hand on the place where you feel pain and say: With the Name of Allah (three times). Then say seven times: I seek refuge in Allah and in His Power from the evil of what I find and of what I guard against.",
+        transliterationText:
+            "Bismillāh (three times). Then say seven times: A`ūdhu billāhi wa qudratihi min sharri mā ajidu wa uḥādhir.",
+        URLReference: "https://sunnah.com/hisn:243",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c125",
+    title:
+        "When in fear of afflicting something with an (evil) eye from oneself",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "إِذَا رَأَى أَحَدُكُم مِنْ أَخِيهِ، أَوْ مِنْ نَفْسِهِ، أَوْ مِنْ مَالِهِ مَا يُعْجِبُهُ [فَلْيَدْعُ لَهُ بِالْبَرَكَةِ] فَإِنَّ الْعَيْنَ حَقٌّ",
+        translationText:
+            "If you see something from your brother, yourself or wealth which you find impressing, then invoke blessings for it, for the evil eye is indeed true.",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:244",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c126",
+    title: "When startled",
+    adhkars: [
+      AdhkarData(
+        arabicText: "لا إلهَ إلاّ اللّهُ",
+        translationText: "There is none worthy of worship but Allah!",
+        transliterationText: "Lā ilāha illallāh!",
+        URLReference: "https://sunnah.com/hisn:245",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c127",
+    title: "When slaughtering or offering a sacrifice",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ [اللَّهُمَّ مِنْكَ وَلَكَ] اللَّهُمَّ تَقَبَّلْ مِنِّي",
+        translationText:
+            "With the Name of Allah, Allah is the Most Great! [O Allah, from You and to You.] O Allah, accept it from me.",
+        transliterationText:
+            "Bismillāh wallāhu Akbar [Allāhumma minka wa lak] Allāhumma taqabbal minnī.",
+        URLReference: "https://sunnah.com/hisn:246",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c128",
+    title: "To ward off the plot of the rebellious devils",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "أَعُوذُ بكَلِمَاتِ اللهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ ولَا فَاجرٌ مِنْ شّرِّ مَا خَلقَ، وبَرَأَ وذَرَأَ، ومِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ وِمنْ شَرِّ مَا يَعْرُجُ فيهَا، ومِن شَرِّ مَا ذَرَأَ في الأَرْضِ ومِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وِمنْ شَرِّ فِتَنِ اللَّيْلِ والنَّهارِ، ومِنْ شَرِّ كُلِّ طارِقٍ إِلَّا طَارِقاً يَطْرُقُ بخَيْرٍ يَا رَحْمَنُ",
+        translationText:
+            "I seek refuge in the Perfect Words of Allah -which neither the upright nor the corrupt may overcome - from the evil of what He created, of what He made, and of what He scattered, from the evil of what descends from the heavens, and of what rises up to them, from the evil of what He scattered in the earth, and of what emerges from it, from the evil trials of night and day, and from the evil of every night visitor, except the night visitor who comes with good. O Merciful One.",
+        transliterationText:
+            "A`ūdhu bikalimāti ‘llāhit-tāmmāti ‘llatī lā yujāwizuhunna barrun wa lā fājirun min sharri mā khalaq, wa bara'a wa dhara', wa min sharri mā yanzilu minas-samā', wa min sharri mā ya`ruju fīhā, wa min sharri mā dhara'a fi ‘l-arḍ, wa min sharri ma yakhruju minhā, wa min sharri fitani ‘llayli wannahār, wa min sharri kulli ṭāriqin illā ṭāriqan yaṭruqu bikhayr yā Rahmān.",
+        URLReference: "https://sunnah.com/hisn:247",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c129",
+    title: "Seeking forgiveness and repentance",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            'قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: "وَاللَّهِ إِنِّي لأَسْتَغفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي الْيَوْمِ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةٍ"',
+        translationText:
+            'Allah\'s Messenger (ﷺ) said: "By Allah, I seek the forgiveness of Allah, and repent to Him more than seventy times in a day.',
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:248",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: (يَا أَيُّهَا النَّاسُ تُوبُوا إِلَى اللَّهِ فَإِنِّي أَتُوبُ فِي الْيَوْمِ إِلَيْهِ مِائَةَ مَرَّةٍ)",
+        translationText:
+            "Allah\'s Messenger (ﷺ) said: \"O people, repent to Allah, for I verily repent to Him one hundred times a day.",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:249",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: مَنْ قَالَ (أَسْتَغْفِرُ اللَّهَ الْعَظيمَ الَّذِي لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ القَيّوُمُ وَأَتُوبُ إِلَيهِ)، غَفَرَ اللَّهُ لَهُ وَإِنْ كَانَ فَرَّ مِنَ الزَّحْفِ.",
+        translationText:
+            "Allah's Messenger (ﷺ) said: Whoever says: Astaghfirullāha ‘l-'Aẓīm alladhi lā ilāha illā huwa ‘l-ḥayyul-Qayyūm wa atūbu ilayh.",
+        transliterationText:
+            "Allah's Messenger (ﷺ) said: Whoever says: I seek the forgiveness of Allah the Mighty, Whom there is none worthy of worship except Him, the Living, the Eternal, and I repent to Him, Allah will forgive him even if he has deserted the army's ranks.",
+        URLReference: "https://sunnah.com/hisn:250",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: أَقْرَبُ مَا يَكُونُ الرَّبُّ مِنَ الْعَبْدِ فِي جَوْفِ اللَّيْلِ الآخِرِ فَإِنِ اسْتَطَعْتَ أَنْ تَكُونَ مِمَّنْ يَذْكُرُ اللَّهَ فِي تِلْكَ السَّاعَةِ فَكُنْ",
+        translationText:
+            "Allah's Messenger (ﷺ) said: \"The closest that the Lord comes to the slave is in the last portion of the night. So, if you are able to be among those who remember Allah in this hour, then be among them.\"",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:251",
+      ),
+      AdhkarData(
+        arabicText:
+            ".وَقَالَ صلى الله عليه وسلم: أَقْرَبُ مَا يَكُونُ الْعَبْدُ مِنْ رَبِّهِ وَهُوَ سَاجِدٌ فَأَكثِرُوا الدُّعَاءَ.",
+        translationText:
+            "Allah's Messenger (ﷺ) said: \"The closest that the slave comes to his Lord is when he is prostrating, so invoke Allah much (in prostration).\"",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:252",
+      ),
+      AdhkarData(
+        arabicText:
+            ".وَقَالَ صلى الله عليه وسلم: إِنَّهُ لَيُغَانُ عَلَى قَلْبِي وَإِنِّي لأَسْتَغْفِرُ اللَّهَ فِي الْيَوْمِ مِائَةَ مَرَّةٍ",
+        translationText:
+            "Allah's Messenger (ﷺ) said: \"It is a heavy thing for my heart if I do not seek Allah's forgiveness a hundred times a day.\"",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:253",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c130",
+    title: "Excellence of Tasbih, Tahmid, Tahlil, and Takbir",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "قَالَ صلى الله عليه وسلم: مَنْ قَالَ (سُبْحَانَ اللَّهِ وَبِحَمْدِهِ) فِي يَوْمٍ مِائَةَ مَرَّةٍ حُطَّتْ خَطَايَاهُ وَلَوْ كَانَتْ مِثْلَ زَبَدِ الْبَحْر.",
+        translationText:
+            "Allah's Messenger (ﷺ) said: Whoever says: Glorified is Allah and praised is He. one hundred times a day, will have his sins forgiven even if they are like the foam of the sea.",
+        transliterationText: "Subḥānallāhi wa biḥamdihi.",
+        URLReference: "https://sunnah.com/hisn:254",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: مَنْ قَالَ (لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) عَشْرَ مِرَارٍ، كَانَ كَمَنْ أَعْتَقَ أَرْبَعَةَ أَنْفُسٍ مِنْ وَلَدِ إِسْمَاعِيلَ",
+        translationText:
+            "Allah's Messenger (ﷺ) said: Whoever says: None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things. ten times, will have the reward for freeing four slaves from the Children of Isma'il.",
+        transliterationText:
+            "Lā ilāha illallāh waḥdahu lā sharīka lah, lahu ‘l-mulku wa lahu ‘l-ḥamd wa huwa `alā kulli shay'in Qadīr.",
+        URLReference: "https://sunnah.com/hisn:255",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ: (سُبْحَانَ اللَّهِ وَبِحَمْدِهِ)، (سُبْحانَ اللَّهِ الْعَظِيمِ)",
+        translationText:
+            "Allah's Messenger (ﷺ) said: Two words are light on the tongue, weigh heavily in the balance, and are loved by the Most Merciful One: Glorified is Allah and praised is He, Glorified is Allah the Most Great.",
+        transliterationText: "Subḥānallāhi wa biḥamdih, Subḥānallāhi ‘l-`Aẓīm.",
+        URLReference: "https://sunnah.com/hisn:256",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: لَأَنْ أَقُولَ (سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلاَ إِلَهَ إِلاَّ اللَّهُ، وَاللَّهُ أَكْبَرُ)، أَحَبُّ إِلَيَّ مِمَّا طَلَعَتْ عَلَيْهِ الشَّمسُ.",
+        translationText:
+            "Allah's Messenger (ﷺ) said: For me to say: Glory is to Allah, and praise is to Allah, and there is none worthy of worship but Allah, and Allah is the Most Great. is dearer to me than all that the sun rises upon (i.e. the whole world).",
+        transliterationText:
+            "Subḥānallāh, walḥamdu lillāh, wa lā ilāha illallāh, wallāhu 'Akbar",
+        URLReference: "https://sunnah.com/hisn:257",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: أَيَعْجِزُ أَحَدُكُم أَنْ يَكْسِبَ كُلَّ يَوْمٍ أَلْفَ حَسَنَةٍ؟ فَسَأَلَهُ سَائِلٌ مِنْ جُلَسَائِهِ كَيْفَ يَكْسِبُ أَحَدُنَا أَلْفَ حَسَنَةٍ؟ قَالَ: يُسَبِّحُ مِائَةَ تَسْبِيحَةٍ، فَيُكتَبُ لَهُ أَلْفُ حَسَنَةٍ أَوْ يُحَطُّ عَنْهُ أَلْفُ خَطِيئَةٍ.",
+        translationText:
+            "Allah's Messenger (ﷺ) said: \"Is anyone of you incapable of earning one thousand Hasanah (rewards) in a day?\" Someone from his gathering asked, \"How can anyone of us earn a thousand Hasanah?\" He said, \"Glorify Allah a hundred times and a thousand Hasanah will be written for you, or a thousand sins will be wiped away.\"",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:258",
+      ),
+      AdhkarData(
+        arabicText:
+            "مَنْ قَالَ (سُبْحَانَ اللَّهِ الْعَظِيمِ وَبِحَمْدِهِ) غُرِسَتْ لَهُ نَخْلَةٌ فِي الْجَنَّةِ",
+        translationText:
+            "Whoever says: Glorified is Allah the Most Great and praised is He. will have a date palm planted for him in Paradise.",
+        transliterationText: "Subḥānallāhi ‘l-'Aẓīmi wa biḥamdih",
+        URLReference: "https://sunnah.com/hisn:259",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: يَا عَبْدَ اللَّهِ بْنَ قَيْسٍ أَلاَ أَدُلُّكَ عَلَى كَنْزٍ مِنْ كُنُوزِ الْجَنَّةِ؟ فَقُلْتُ: بَلَى يَا رَسُولَ اللَّهِ، قَالَ: قُلْ (لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ).",
+        translationText:
+            "Allah's Messenger (ﷺ) said: \"O Abdullah bin Qais, should I not point you to one of the treasures of Paradise?\" I said, \"Yes, O Messenger of Allah.\" So he told me to say: There is no power and no might except by Allah.",
+        transliterationText: "Lā ḥawla wa lā quwwata 'illā billāh.",
+        URLReference: "https://sunnah.com/hisn:260",
+      ),
+      AdhkarData(
+        arabicText:
+            "وَقَالَ صلى الله عليه وسلم: أَحَبُّ الْكَلاَمِ إِلَى اللَّهِ أَرْبَعٌ: (سُبْحَانَ اللَّهِ)، وَ(الْحَمْدُ لِلَّهِ)، وَ(لاَ إِلَهَ إِلاَّ اللَّهُ)، وَ(اللَّهُ أَكْبَرُ)، لاَ يَضُرُّكَ بِأَيِّهِنَّ بَدَأتَ",
+        translationText:
+            "Allah's Messenger (ﷺ) said: The most beloved words to Allah are four: Glorified is Allah, and The praise is for Allah, and There is none worthy of worship but Allah, and Allah is the Most Great.",
+        transliterationText:
+            "Subḥānallāh Walḥamdu lillāh. Wa lā ilāha illallāh Wallāhu Akbar.",
+        URLReference: "https://sunnah.com/hisn:261",
+      ),
+      AdhkarData(
+        arabicText:
+            "جَاءَ أَعْرَابِيٌّ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ: عَلِّمْنِي كَلاماً أَقُولُهُ: قَالَ: قُلْ (لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، اللَّهُ أَكْبَرُ كَبِيراً، وَالْحَمْدُ لِلَّهِ كَثِيراً، سُبْحَانَ اللَّهِ رَبِّ العَالَمِينَ، لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ الْعَزِيزِ الْحَكِيمِ). قَالَ: فَهَؤُلاَءِ لِرَبِّي، فَمَا لِي؟ قَالَ: قُلْ (اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَارْزُقْنِي).",
+        translationText:
+            "A desert Arab came to Allah's Messenger (ﷺ) and said, \"Teach me a word that I can say. \" The Prophet told him to say: There is none worthy of worship but Allah, Who has no partner, Allah is the Great, the Most Great, and praise is to Allah in abundance, glory is to Allah, Lord of the worlds. There is no power and no might but by Allah the Mighty, the Wise. He said, \"That is for my Lord, but what about me?\" The Prophet (ﷺ) told him to say: O Allah forgive me, and have mercy on me and guide me, and provide for me.",
+        transliterationText:
+            "A desert Arab came to Allah's Messenger (ﷺ) and said, \"Teach me a word that I can say. \"The Prophet told him to say: Lā ilāha illallāh waḥdahu lā sharīka lah, Allāhu Akbaru kabīra, walḥamdu lillāhi kathīra, Subḥānallāhi Rabbil-`ālamīn, Lā ḥawla wa lā quwwata illā billāhi ‘l-`Azīzil-Hakīm. He said, \"That is for my Lord, but what about me?\" The Prophet (ﷺ) told him to say: Allāhummaghfir lī, warḥamnī, waḥdinī warzuqnī.",
+        URLReference: "https://sunnah.com/hisn:262",
+      ),
+      AdhkarData(
+        arabicText:
+            "كَانَ الرَّجُلُ إِذَا أَسْلَمَ عَلَّمَهُ النَّبيُّ صلى الله عليه وسلم الصَّلاَةَ ثُمَّ أَمَرَهُ أَنْ يَدْعُوَ بِهَؤُلاَءِ الْكَلِمَاتِ: (اللَّهُمَّ اغْفِرِ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَعَافِنِي وَارْزُقْنِي)",
+        translationText:
+            "Whenever anyone accepted Islam, the Prophet (ﷺ) used to teach him how to pray then he would instruct him to invoke Allah with the following words: O Allah forgive me, and have mercy on me and guide me and give me good health and provide for me.",
+        transliterationText:
+            "Allāhummaghfir lī, warḥamnī, waḥdinī, wa `āfinī warzuqnī.",
+        URLReference: "https://sunnah.com/hisn:263",
+      ),
+      AdhkarData(
+        arabicText:
+            "إِنَّ أَفْضَلَ الدُّعَاءِ (الْحَمْدُ لِلَّهِ)، وَأَفْضَلَ الذِّكْرِ (لاَ إِلَهَ إِلاَّ اللَّهُ)",
+        translationText:
+            "The most excellent invocation is: Praise is for Allah. and the most excellent words of remembrance are: There is none worthy of worship but Allah.",
+        transliterationText:
+            "The most excellent invocation is: Alḥamdulillāh and the most excellent words of remembrance are: Lā ilāha illallāh.",
+        URLReference: "https://sunnah.com/hisn:264",
+      ),
+      AdhkarData(
+        arabicText:
+            "الباقيات الصالحات : (سبحان الله) و(الحمد لله )، و(لا إله إلا الله)، و(الله أكبر) ،و (لا حول ولا قوة إلا بالله).",
+        translationText:
+            "The good deeds which endure are: Glorified is Allah, and The praise is for Allah, and There is none worthy of worship but Allah, and Allah is the Most Great, and There is no power and no might except by Allah.",
+        transliterationText:
+            "Subḥānallāh. Walḥamdu lillāh. Wa lā ilāha illallāh Wallāhu Akbar Wa lā ḥawla wa lā quwwata illā billāh.",
+        URLReference: "https://sunnah.com/hisn:265",
+      ),
+    ],
+  ),
+  Adhkar(
+    id: "c131",
+    title: "How the Prophet ﷺ made tasbeeh",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رضي الله عنهما قَالَ: رَأَيْتُ النَّبيَّ صلى الله عليه وسلم يَعْقِدُ التَّسْبِيحَ بِيَمِينِهِ.",
+        translationText:
+            "Abdullah bin 'Amr (RA) said: \"I saw the Prophet (ﷺ) counting the glorification of his Lord on his right hand.\"",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:266",
+      )
+    ],
+  ),
+  Adhkar(
+    id: "c132",
+    title: "Comprehensive types of good and manners",
+    adhkars: [
+      AdhkarData(
+        arabicText:
+            "إِذَا كَانَ جُنْحُ اللَّيْلِ – أَوْ أَمْسَيْتُم – فَـكُفُّوا صِبْيانَـكُم، فَإِنَّ الشَّيَاطِينَ تَنْتَشِرُ حِينَئِذٍ، فَإِذَا ذَهَبَ سَاعَةٌ مِنَ اللَّيلِ فَخَلُّوهُمْ، وَأَغْلِقُوا الأَبْوَابَ وَاذْكُرُوا اسْمَ اللَّهِ؛ فَإِنَّ الشَّيطَانَ لاَ يَفْتَحُ بَاباً مُغلَقاً، وَأَوْكُوا قِرَبَكُمْ، وَاذْكُرُوا اسْمَ اللَّهِ، وَخَمِّرُوا آنِيَتَكُم، وَاذْكُرُوا اسْمَ اللَّهِ، وَلَوْ أَنْ تَعْرُضُوا عَلَيْهَا شَيْئاً، وَأَطْفِئُوا مَصَابِيحَكُمْ.",
+        translationText:
+            "When night falls, restrain your children (from going out) because at such time the devils spread about. After a period of time has passed, let them be. Shut your doors and mention Allah’s name, for verily the devil does not open a shut door, tie up your water-skins and mention Allah’s name, cover your vessels with anything and mention Allah’s name and put out your lamps.",
+        transliterationText: "",
+        URLReference: "https://sunnah.com/hisn:267",
+      )
+    ],
+  ),
 ];
+
