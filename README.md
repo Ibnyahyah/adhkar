@@ -1,39 +1,34 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
-
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Adhkar for muslims which is extracted from [hisnul](https://sunnah.com/hisn) and it contains all the valuable information your will for all your daily live.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Get all supplications, or adhkar, List all the adhkar Id, get a single adhkar or supplication
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+To get started, add ```adhkar: any``` to your dependencies in pubspec.yaml file and run ```flutter pub get```.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+Below are the three usability of adhkar package and examples
 
 ```dart
-const like = 'sample';
+void _getAllAdhkarId() {
+    final get_adhkar = AdhkarFactory.getAllAdhkarId();
+    print(get_adhkar);
+}
+
+void _getASingleAdhkar() {
+    Adhkar adhkar = AdhkarFactory.getAdhkar(adhkarId: "c1");
+    print(adhkar.title);
+}
+
+void _getAllAdhkar() {
+    List<Adhkar> adhkars = AdhkarFactory.getAdhkar();
+    print(adhkars.length);
+}
 ```
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+We hope to get the package value for everyone and also only to see more contributor who will help us to bring more features to the package. To contribute visit the github repository under the main branch at https://github.com/Ibnyahyah/adhkar

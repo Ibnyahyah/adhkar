@@ -1,7 +1,4 @@
 library adhkar;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'controller/adhkar_factory.dart';
+export 'models/adhkar.model.dart';
